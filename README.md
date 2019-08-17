@@ -128,6 +128,7 @@ OCaml を用いた，未経験者向けのプログラミング入門書
 
 - [技術評論社](http://gihyo.jp/site/inquiry/manuscript)
 - [インプレスR&D (Next Publishing) 出版企画募集](https://koukaiboshu.nextpublishing.jp)
+- [マイナビBOOKS 企画の売り込みに関するお問い合わせ](https://book.mynavi.jp/kikaku/)
 - [秀和システム ビジネスパートナー募集](https://www.shuwasystem.co.jp/company/cc1703.html)
 - [翔泳社](https://www.shuwasystem.co.jp/company/cc1703.html)
 - [SB Creative](https://www.sbcr.jp/faq/)
